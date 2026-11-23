@@ -1,0 +1,10 @@
+{
+  "extraKnownMarketplaces": {
+    "roblox-agents": {
+      "source": { "source": "github", "repo": "rafaelzakh-source/roblox-agents" }
+    }
+  },
+  "enabledPlugins": {
+    "roblox-team@roblox-agents": true
+  }
+}
